@@ -1,6 +1,7 @@
 {
   "name": "shareposts/tmvc_project",
-  "description": "SharePosts",
+  "description": "This app is created using MVC Framework by Brad Traversy, using Core PHP.",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Jovan Popovic",
